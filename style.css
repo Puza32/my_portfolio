@@ -1,0 +1,33 @@
+body{
+    font-family : 'Gentium Book Plus', serif;
+    margin: 0%;
+}
+h1 {
+ font-size: 50px;
+}
+.orange {
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-weight{
+    width: 50%;
+}
+.half-weight img{
+    width: 80%;
+    padding-left: 2%;
+}
+.link-button {
+    text-decoration: none;
+    background-color: rgb(236, 111, 39);
+    
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner {
+   background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
